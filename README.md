@@ -5,4 +5,5 @@ Note that I've spent like maybe 6 overall hours of work on this (though I spent 
 
 TODO:
 UI (Working on adding the technical part of it ATM, the look and feel of it could be improved + location (its in the middle of nowhere atm)
+
 In-game code (all of it)
