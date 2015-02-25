@@ -1,0 +1,3 @@
+function ParseQuest(loadedFile)
+
+end
